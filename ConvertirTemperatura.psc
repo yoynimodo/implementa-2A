@@ -1,5 +1,5 @@
 
-	Algoritmo ConvertirTemperatura
+	Algoritmo ConvertirTemperaturadegradoscelsiusafahrenheit
 		Definir celsius, fahrenheit Como Real
 		Escribir "Ingrese la temperatura en grados Celsius: "
 		Leer celsius
